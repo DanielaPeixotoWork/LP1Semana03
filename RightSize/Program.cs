@@ -13,6 +13,14 @@ namespace RightSize
                     return;
                 }
 
+                }
+
+                else if (arg.Length > 3)
+
+                {
+                   
+                Console.WriteLine(arg)
+
             }
         }
     }

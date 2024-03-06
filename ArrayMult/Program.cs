@@ -38,7 +38,10 @@ namespace ArrayMult
                 result[i] += A[i, j] * b[j];
             }
         }
-
+        
+        Console.WriteLine("A · b =");
+        Console.WriteLine($"[{result[0]}]");
+        Console.WriteLine($"[{result[1]}]");
 
         }
     }

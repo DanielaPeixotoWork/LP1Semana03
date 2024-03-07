@@ -35,6 +35,14 @@ namespace HeroPerks
             }
         }
 
+            playerPerks[GetPerkName(perk)] = !playerPerks[GetPerkName(perk)];
+
+        // Verifica se o jogador possui as perks Stealth e DoubleJump
+        if (playerPerks["Stealth"] && playerPerks["DoubleJump"])
+        {
+            Console.WriteLine("Silent jumper!");
+        }
+
         }
     }
 }

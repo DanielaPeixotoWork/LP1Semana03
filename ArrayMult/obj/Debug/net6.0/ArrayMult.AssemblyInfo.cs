@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayMult")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6efc8b8626eb1d66f050cd744366f350da3a5edc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54f73710470567234de79d308457b61dd81192ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayMult")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayMult")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
